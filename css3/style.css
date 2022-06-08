@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+ul nav{
+    display: flex;
+}
+.nav{
+    justify-content: center  ;
+
+}
+ .container p{
+     color: blue;
+ }
+.nav-link{
+    list-style-type: none !important;
+        text-decoration: none !important;
+}
+a.nav-link {
+    color:brown ;
+    text-align: center;
+}
